@@ -18,13 +18,13 @@ A secure, web-based Blood Donation Management System developed for DBMS Laborato
 
 | Sr | Description | Link |
 |----|-------------|------|
-| 1 | Project Code | [View](https://drive.google.com/drive/folders/1eJwf0Cej_Di0XNE_-3Mq9mXikPeBS2fs?usp=drive_link) |
-| 2 | Project Report | [View](https://docs.google.com/document/d/1ZPeG5QEDdK_AYSB__UkTKgmnLmPvSxb_/edit?usp=drive_link&ouid=116147276879872987786&rtpof=true&sd=true) |
-| 3 | Final PPT | [View](https://docs.google.com/presentation/d/1N13ejV9XpQPHJGb92_BiSaaN4YklAb2z/edit?usp=drive_link&ouid=116147276879872987786&rtpof=true&sd=true) |
-| 4 | RA2411030030049_Certificate | [View](https://drive.google.com/file/d/10PhFfjy44PrUEAr9idqD8n2VdEjAADh1/view?usp=drive_link) |
-| 5 | RA2411030030071_Certificate | [View](https://drive.google.com/file/d/1QHBOQeaVYOtbMySlo52np8CUtX721l66/view?usp=drive_link) |
-| 6 | RA2411030030049_CourseReport | [View](https://docs.google.com/document/d/1GZ4KAuVl6wZdt_7HroAmovBOVVpJLT_W/edit?usp=drive_link&ouid=116147276879872987786&rtpof=true&sd=true) |
-| 7 | RA2411030030071_CourseReport | [View](https://docs.google.com/document/d/1TU4TGbEY-PmlWBzCLvYp7n6puuWffF1P/edit?usp=drive_link&ouid=116147276879872987786&rtpof=true&sd=true) |
+| 1 | Project Code | [View](https://github.com/vishvsingh12354/blood_project/tree/main/blood_project) |
+| 2 | Project Report | [View](https://github.com/vishvsingh12354/blood_project/blob/main/Blood_Donation_Management_System_Report%20(3).docx) |
+| 3 | Final PPT | [View](https://github.com/vishvsingh12354/blood_project/blob/main/Blood-Donation-Management-System%20(1)%20(2)%20(1).pptx) |
+| 4 | RA2411030030049_Certificate | [View](https://github.com/vishvsingh12354/blood_project/blob/main/vishv%20singh%20certificate.jpeg) |
+| 5 | RA2411030030071_Certificate | [View](https://github.com/vishvsingh12354/blood_project/blob/main/Abhishek%20certificate.png)) |
+| 6 | RA2411030030049_CourseReport | [View](https://github.com/vishvsingh12354/blood_project/blob/main/DBMS_Course_Report_vishv%20singh%20(1).docx) |
+| 7 | RA2411030030071_CourseReport | [View](https://github.com/vishvsingh12354/blood_project/blob/main/DBMS_Course_Report_abhishek%20bhardwaj.docx) |
 
 ## 📋 Table of Contents
 
